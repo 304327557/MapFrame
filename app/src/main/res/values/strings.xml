@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapFrame</string>
+    <string name="tile_overlay">加载地图</string>
+    <string name="offline">离线下载</string>
+    <string name="map_type">地图类型</string>
+    <string name="map_location">地图定位</string>
+    <string name="tileoverlay_online_urlhint">放入图片URL，点击在线</string>
+    <string name="tileoverlay_online">在线方式</string>
+    <string name="tileoverlay_offline">离线方式</string>
+    <string name="hide_poiinfo">隐藏地图上的poi标注</string>
+</resources>

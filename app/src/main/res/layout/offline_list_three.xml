@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/names"
+        android:layout_width="match_parent"
+        >
+    </TextView>
+    <TextView
+        android:id="@+id/map_size"
+        android:layout_width="match_parent"
+        >
+    </TextView>
+    <ImageView
+        android:id="@+id/indicator_arrow"
+        android:layout_width="match_parent"
+        />
+</android.support.v7.widget.LinearLayout>
